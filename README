@@ -1,0 +1,35 @@
+# 🥁 Kids Drum Game
+
+A fun, interactive drum kit game designed for kids!  
+Built using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Features
+
+- Click or press keys to play different drum sounds
+- Colorful and responsive buttons
+- Easy to use for children
+- Sound effects for each drum pad
+
+---
+
+## 🧩 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Web Audio API
+
+---
+
+## 🎮 How to Play
+
+1. Open the website or run `index.html` in your browser.
+2. Click on the drum buttons or press the corresponding keys on your keyboard.
+3. Enjoy the beats!
+
+---
+
+## 📁 Project Structure
+
